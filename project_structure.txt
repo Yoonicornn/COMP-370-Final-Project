@@ -1,0 +1,14 @@
+COMP-370-Final-Project/
+├── data/
+│   ├── raw/
+│   ├── cleaned/
+│   └── annotated/
+├── notebooks/
+│   ├── 01_data_collection.ipynb
+│   ├── 02_data_preparation.ipynb
+│   ├── 03_annotation.ipynb
+│   └── 04_analysis.ipynb
+├── figures/
+├── report/
+├── requirements.txt
+└── README.md
