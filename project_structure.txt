@@ -1,11 +1,13 @@
 COMP-370-Final-Project/
 ├── data/
 │   ├── raw/
+│   │   ├── csv_data/
+│   │   └── json_data/
 │   ├── cleaned/
 │   └── annotated/
 ├── notebooks/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_data_preparation.ipynb
+│   ├── 01_collection.ipynb
+│   ├── 02_cleaning.ipynb
 │   ├── 03_annotation.ipynb
 │   └── 04_analysis.ipynb
 ├── figures/
